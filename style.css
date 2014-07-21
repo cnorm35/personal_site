@@ -1,0 +1,70 @@
+.jumbotron{
+	background-image: url(assets/congruent_outline.png);
+	min-height: 400px;
+}
+
+.jumbotron > h1, .jumbotron > p  {
+	color: white;
+	text-align: center;
+}
+
+.jumbotron > p > a {
+	text-decoration: underline;
+	color: white;
+}
+
+.stacks {
+	text-align: center;
+	
+}
+
+footer
+{
+	margin-top: 20px;
+	border-top: 1px solid #eee;
+	padding: 20px;
+}
+
+.col-lg-6 {
+	width: 100%;
+}
+
+#twitter-logo {
+	max-height: 20px;
+	max-width: 20px;
+	margin-right: 5px;
+}
+
+#github-logo {
+	max-height: 20px;
+	max-height: 20px;
+	margin-right: 5px;
+	margin-bottom: 4px;
+
+}
+
+#linkedin-logo {
+	max-width: 90px;
+	margin-bottom: 5px;
+}
+
+#github-text {
+	max-height: 30px;
+	max-height: 30px;
+}
+
+
+.contact-links {
+	color: #333;
+	font-size: 1.5em;
+}
+
+.glyphicon-eye-open {
+	margin-right: 5px;
+}
+
+.contact-body{
+	padding-top: 70px;
+}
+
+
